@@ -1,0 +1,24 @@
+[14-Jan-2024 11:32:23 UTC] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php:29
+Stack trace:
+#0 /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php(29): mb_http_input('UTF-8')
+#1 /home1/sanmiuce/demo7.sanmishatech.com/filemanager/dialog.php(4): include('/home1/sanmiuce...')
+#2 {main}
+  thrown in /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php on line 29
+[16-Jan-2024 00:03:32 UTC] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php:29
+Stack trace:
+#0 /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php(29): mb_http_input('UTF-8')
+#1 /home1/sanmiuce/demo7.sanmishatech.com/filemanager/dialog.php(4): include('/home1/sanmiuce...')
+#2 {main}
+  thrown in /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php on line 29
+[16-Jan-2024 12:10:31 UTC] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php:29
+Stack trace:
+#0 /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php(29): mb_http_input('UTF-8')
+#1 /home1/sanmiuce/demo7.sanmishatech.com/filemanager/dialog.php(4): include('/home1/sanmiuce...')
+#2 {main}
+  thrown in /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php on line 29
+[16-Jan-2024 16:02:52 UTC] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php:29
+Stack trace:
+#0 /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php(29): mb_http_input('UTF-8')
+#1 /home1/sanmiuce/demo7.sanmishatech.com/filemanager/dialog.php(4): include('/home1/sanmiuce...')
+#2 {main}
+  thrown in /home1/sanmiuce/demo7.sanmishatech.com/filemanager/config/config.php on line 29
